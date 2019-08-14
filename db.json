@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "userId": 1, "id": 1, "title": "json-server01", "body": "typicode01" },
+	{ "userId": 2, "id": 2, "title": "json-server02", "body": "typicode02" },
+	{ "userId": 2, "id": 2, "title": "json-server03", "body": "typicode03" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
